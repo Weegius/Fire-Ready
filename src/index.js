@@ -1,11 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { ChakraProvider } from '@chakra-ui/react'
+import { ChakraProvider, extendTheme } from '@chakra-ui/react'
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import "@fontsource/big-shoulders-display"
+
+const theme = extendTheme({
+  fonts: {
+    body: "Big Shoulders Display"
+  }
+})
 
 ReactDOM.render(
-  <ChakraProvider>
+  <ChakraProvider theme={theme}>
     <React.StrictMode>
       <App />
     </React.StrictMode>
