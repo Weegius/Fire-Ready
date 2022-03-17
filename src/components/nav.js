@@ -8,7 +8,7 @@ const Navcomp = ({name, link}) => {
   return (
     <>
       {console.log(pathname)}
-      { pathname !== name ? <Text color={'white'} ml={20} _hover={{color: 'orange', cursor: 'pointer'}} onClick={() => navigate(link)}>{name}</Text> : null}
+      { pathname !== name ? <Text color={'white'} bg="#01161e" ml={20} _hover={{color: 'orange', cursor: 'pointer'}} onClick={() => navigate(link)}>{name}</Text> : null}
     </>
   )
 }

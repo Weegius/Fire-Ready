@@ -235,7 +235,7 @@ const Gallery =() => {
 
   return (
     <>
-      <Flex bg={'#1B1814'} fontSize="3xl" justifyContent={'right'} pr={4}>
+      <Flex bg={'#01161e'} fontSize="3xl" justifyContent={'right'} pr={4}>
         <NavBar />
       </Flex>
       <Box
