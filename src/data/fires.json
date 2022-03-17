@@ -5,7 +5,8 @@
     "county": "Mendocino, Humboldt, Trinity, Tehama, Glenn, Lake, Colusa",
     "acres": "1,032,648",
     "houses": "935",
-    "deaths": "1"
+    "deaths": "1",
+    "image": "https://imengine.prod.srp.navigacloud.com/?uuid=d6b5b5fd-5bfa-5ea3-b4ed-f698e2e7ab95&type=primary&q=72&width=1024"
   },
   {
     "name": "DIXIE (Powerlines)",
@@ -13,7 +14,8 @@
     "county": "Butte, Plumas, Lassen, Shasta, Tehama",
     "acres": "963,309",
     "houses": "1,329",
-    "deaths": "1"
+    "deaths": "1",
+    "image": "https://ww2.kqed.org/app/uploads/sites/10/2021/07/DixieFirePyrocumulus-1020x695.jpg"
   },
   {
     "name": "SCU LIGHTNING COMPLEX (Lightning)",
@@ -21,7 +23,8 @@
     "county": "Stanislaus, Santa Clara, Alameda, Contra Costa, San Joaquin",
     "acres": "396,624",
     "houses": "222",
-    "deaths": "0"
+    "deaths": "0",
+    "image": "https://s.hdnux.com/photos/01/13/52/17/19833846/6/rawImage.jpg"
   },
   {
     "name": "CREEK (Undetermined)",
@@ -29,7 +32,8 @@
     "county": "Fresno, Madera",
     "acres": "379,895",
     "houses": "853",
-    "deaths": "0"
+    "deaths": "0",
+    "image": "https://sjvsun.com/wp-content/uploads/2020/09/SUNP-CreekFire.png"
   },
   {
     "name": "LNU LIGHTNING COMPLEX (Lightning/Arson)",
@@ -37,7 +41,8 @@
     "county": "Napa, Solano, Sonoma, Yolo, Lake, Colusa",
     "acres": "363,220",
     "houses": "1,491",
-    "deaths": "6"
+    "deaths": "6",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_17/3468853/210428-lake-berryessa-lnu-lightning-complex-fire-2020-ac-1118p.jpg"
   },
   {
     "name": "NORTH COMPLEX (Lightning)",
@@ -45,7 +50,8 @@
     "county": "Butte, Plumas, Yuba",
     "acres": "318,935",
     "houses": "2,352",
-    "deaths": "15"
+    "deaths": "15",
+    "image": "https://www.sacbee.com/latest-news/6qj4eb/picture245631225/alternates/FREE_1140/CaliforniaWildfires33.JPG"
   },
   {
     "name": "THOMAS (Powerlines)",
@@ -53,7 +59,8 @@
     "county": "Ventura, Santa Barbara",
     "acres": "281,893",
     "houses": "1,063",
-    "deaths": "2"
+    "deaths": "2",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/171215183408-california-fire-1213-restricted-super-169.jpg"
   },
   {
     "name": "CEDAR ( Human Related)",
@@ -61,7 +68,8 @@
     "county": "San Diego",
     "acres": "273,246",
     "houses": "2,820",
-    "deaths": "15"
+    "deaths": "15",
+    "image": "https://cdn.kpbs.org/dims4/default/0fd086b/2147483647/strip/true/crop/504x310+0+10/resize/880x542!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.amazonaws.com%2Fimg%2Fphotos%2F2013%2F10%2F08%2Fcedar1.jpeg"
   },
   {
     "name": "RUSH (Lightning )",
@@ -69,7 +77,8 @@
     "county": "Lassen",
     "acres": "271,911 CA / 43,666 NV",
     "houses": "0",
-    "deaths": "0"
+    "deaths": "0",
+    "image": "http://www.susanvillestuff.com/roop/wp-content/uploads/2012/08/rushfire081612.jpg"
   },
   {
     "name": "RIM (Human Related)",
@@ -77,7 +86,8 @@
     "county": "Tuolumne",
     "acres": "257,314",
     "houses": "112",
-    "deaths": "0"
+    "deaths": "0",
+    "image": "https://www.myyosemitepark.com/wp-content/uploads/2015/05/yosemite-rim-fire.jpg"
   },
   {
     "name": "ZACA (Human Related)",
@@ -85,7 +95,8 @@
     "county": "Santa Barbara",
     "acres": "240,207",
     "houses": "1",
-    "deaths": "0"
+    "deaths": "0",
+    "image": "https://www.noozhawk.com/images/uploads/zaca-fire-out-5.jpg"
   },
   {
     "name": "CARR (Human Related)",
@@ -93,7 +104,8 @@
     "county": "Shasta County, Trinity",
     "acres": "229,651",
     "houses": "1,614",
-    "deaths": "8"
+    "deaths": "8",
+    "image": "https://calhum.org/wp-content/uploads/2020/02/fireee.jpg"
   },
   {
     "name": "MONUMENT (Lightning)",
@@ -101,7 +113,8 @@
     "county": "Trinity",
     "acres": "223,124",
     "houses": "50",
-    "deaths": "0"
+    "deaths": "0",
+    "image": "https://krcrtv.com/resources/media2/16x9/full/1015/center/80/5744e71b-7fd2-4235-b6e0-edf234f5b43d-large16x9_MonumentFire.jpg"
   },
   {
     "name": "CALDOR (Human Related)",
@@ -109,7 +122,8 @@
     "county": "Alpine, Amador, El Dorado",
     "acres": "221,835",
     "houses": "1,003",
-    "deaths": "1"
+    "deaths": "1",
+    "image": "https://www.gannett-cdn.com/presto/2021/08/23/PREN/a517158e-0ecc-48b1-a3b9-dcdaa099271b-AP21234306756047.jpg?crop=5003,2815,x0,y144&width=660&height=372&format=pjpg&auto=webp"
   },
   {
     "name": "MATILIJA (Undetermined)",
@@ -117,7 +131,8 @@
     "county": "Ventura",
     "acres": "220,000",
     "houses": "0",
-    "deaths": "0"
+    "deaths": "0",
+    "image": "https://www.noozhawk.com/images/made/images/uploads/slideshows/120817-Thomas-Fire-Wheeler-Canyon-Road-rf-1000x667_2400_1601_80_s_c1.jpg"
   },
   {
     "name": "RIVER COMPLEX (Lightning)",
@@ -125,7 +140,8 @@
     "county": "Siskiyou, Trinity",
     "acres": "199,343",
     "houses": "122",
-    "deaths": "0"
+    "deaths": "0",
+    "image": "https://lcvalley.dailyfly.com/Portals/ID_lcvalley/EasyDNNNews/60024/600600p1352EDNmainWashington-DNR-Chiwaukum-WildFires-2014-2015_WA-DNR_cropped.jpg"
   },
   {
     "name": "WITCH (Powerlines)",
@@ -133,7 +149,8 @@
     "county": "San Diego",
     "acres": "197,990",
     "houses": "1,650",
-    "deaths": "2"
+    "deaths": "2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Witch_Creek_Fire_at_night.jpg"
   },
   {
     "name": "KLAMATH THEATER COMPLEX (Lightning)",
@@ -141,7 +158,8 @@
     "county": "Siskiyou",
     "acres": "192,038",
     "houses": "0",
-    "deaths": "2"
+    "deaths": "2",
+    "image": "https://api.time.com/wp-content/uploads/2018/08/mendocino-complex-fire-california.jpg?quality=85&w=1200&h=628&crop=1"
   },
   {
     "name": "MARBLE CONE (Lightning)",
@@ -149,7 +167,8 @@
     "county": "Monterey",
     "acres": "177,866",
     "houses": "0",
-    "deaths": "2"
+    "deaths": "2",
+    "image": "https://www.montereyherald.com/wp-content/uploads/2020/07/MCH-L-LOOKBACK-0727.jpg"
   }
 
 ]

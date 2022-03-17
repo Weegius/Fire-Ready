@@ -12,7 +12,7 @@ const theme = extendTheme({
 })
 
 ReactDOM.render(
-  <ChakraProvider theme={theme}>
+  <ChakraProvider theme={theme} >
     <React.StrictMode>
       <App />
     </React.StrictMode>
