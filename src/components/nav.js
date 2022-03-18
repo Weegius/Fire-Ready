@@ -16,9 +16,10 @@ const NavBar = () => {
   return (
     <>
     <Navcomp name={'Home'} link={'/'} />
-    <Navcomp name={'Resources'} link={'/resources'} />
-    <Navcomp name={'Gallery'} link={'/gallery'} />
     <Navcomp name={'Story'} link={'/story'} />
+    <Navcomp name={'Gallery'} link={'/gallery'} />''
+    <Navcomp name={'Resources'} link={'/resources'} />
+
     {/* <Navcomp name={'Map'} link={'/map'} /> */}
     </>
   )
