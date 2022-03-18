@@ -7,7 +7,7 @@ import ResourceCard from "./resourcecards";
 const Resources = () => {
   return( 
     <>
-      <Flex  bg={'#01161e'} fontSize="3xl" justifyContent={'right'} pr={4}>
+      <Flex  bg={'#01161e'} fontSize="3xl" justifyContent={'right'} pr={4} alignItems={'center'}>
           <NavBar />
       </Flex>
       <Flex bg={'#01161e'} minH="100vh" h={'auto'} w="100%">

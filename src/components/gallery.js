@@ -7,13 +7,12 @@ import {
   Heading,
   Text,
   Container,
-  Flex
 } from '@chakra-ui/react';
 // Here we have used react-icons package for the icons
 import { BiLeftArrowAlt, BiRightArrowAlt } from 'react-icons/bi';
 // And react-slick as our Carousel Lib
 import Slider from 'react-slick';
-import NavBar from './nav';
+
 
 // Settings for the slider
 const settings = {
@@ -21,9 +20,9 @@ const settings = {
   arrows: false,
   fade: true,
   infinite: true,
-  autoplay: false,
+  autoplay: true,
   speed: 1000,
-  autoplaySpeed: 5000,
+  autoplaySpeed: 60000,
   slidesToShow: 1,
   slidesToScroll: 1,
 };
@@ -92,7 +91,7 @@ const Gallery =() => {
       "info": "The LNU Lightning Complex fires were a large complex of wildfires that burned during the 2020 California wildfire season across much of the Wine Country area of Northern California – Lake, Napa, Sonoma, Solano, and Yolo Counties, from August 17 to October 2, 2020. The complex was composed of numerous lightning-sparked fires, most of which were small. However, while they initially started separate from each other, the Hennessey Fire eventually grew to merge with the Gamble, Green, Markley, Spanish, and Morgan Fires"
     },
     {
-      "name": "North Complex Fir",
+      "name": "North Complex Fire",
       "date": "2020-08-01T00:00:00.000Z",
       "county": "Butte, Plumas, Yuba",
       "acres": "318,935",
@@ -235,9 +234,7 @@ const Gallery =() => {
 
   return (
     <>
-      <Flex bg={'#01161e'} fontSize="3xl" justifyContent={'right'} pr={4}>
-        <NavBar />
-      </Flex>
+      
       <Box
         position={'relative'}
         height={'100vh'}
@@ -287,7 +284,7 @@ const Gallery =() => {
             
             <Box
               key={index}
-              height={'2xl'}
+              height={'3xl'}
               position="relative"
               backgroundPosition="center"
               backgroundRepeat="no-repeat"

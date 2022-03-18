@@ -7,49 +7,49 @@
   },
   {
     "name": "US Department of Agriculture",
-    "image": {"size": {"w": 100, "h": 100}, "url":  "https://www.fs.usda.gov/themes/custom/fs_uswds/logo.svg"},
+    "image": {"size": {"w": 200, "h": 200}, "url":  "https://www.fs.usda.gov/themes/custom/fs_uswds/logo.svg"},
     "desc": "We provide leadership on food, agriculture, natural resources, rural development, nutrition, and related issues based on public policy, the best available science, and effective management.",
     "link": "https://www.fs.usda.gov/science-technology/fire/information"
   },
   {
     "name": "Incident Information System",
-    "image": {"size": {"w": 100, "h": 100}, "url":  "https://inciweb.nwcg.gov/images/inciweb-logo-blue.png"},
+    "image": {"size": {"w": 200, "h": 200}, "url":  "https://inciweb.nwcg.gov/images/inciweb-logo-blue.png"},
     "desc": "InciWeb is an interagency all-risk incident information management system.",
     "link": "https://inciweb.nwcg.gov/"
   },
   {
     "name": "National Interagency Fire Center",
-    "image": {"size": {"w": 100, "h": 100}, "url":  "https://www.nifc.gov/themes/custom/nifc/logo.svg"},
+    "image": {"size": {"w": 200, "h": 200}, "url":  "https://www.nifc.gov/themes/custom/nifc/logo.svg"},
     "desc": "At NIFC, we support many different kinds of emergency responses, including floods, hurricanes, earthquakes, volcanic eruptions, riots, terrorist attacks (9/11 and Oklahoma City bombing), and radios to Haiti. However, our primary focus is on wildland firefighting.",
     "link": "https://www.nifc.gov/"
   },
   {
     "name": "Ready",
-    "image": {"size": {"w": 100, "h": 100}, "url":  "https://www.ready.gov/profiles/readyd8_gov/themes/uswds_ready/img/logo_ready_green.png"},
+    "image": {"size": {"w": 200, "h": 200}, "url":  "https://www.ready.gov/profiles/readyd8_gov/themes/uswds_ready/img/logo_ready_green.png"},
     "desc": "Launched in February 2003, Ready is a National public service campaign designed to educate and empower the American people to prepare for, respond to and mitigate emergencies, including natural and man-made disasters. The goal of the campaign is to promote preparedness through public involvement.",
     "link": "https://www.ready.gov/wildfires"
   },
   {
     "name": "Fire and Smoke Map",
-    "image": {"size": {"w": 100, "h": 100}, "url":  "https://fire.airnow.gov/fe29b9098856f7eadeca0b851a76154d.png"},
+    "image": {"size": {"w": 200, "h": 200}, "url":  "https://fire.airnow.gov/fe29b9098856f7eadeca0b851a76154d.png"},
     "desc": "The Fire and Smoke Map displays information on ground level air quality monitors recording fine particulates (PM2.5) from smoke and other sources, as well as information on fires, smoke plume locations, and special statements about smoke issued by various sources.",
     "link": "https://fire.airnow.gov/"
   },
   {
     "name": "U.S. Fire Administration",
-    "image": {"size": {"w": 100, "h": 100}, "url":  "https://yt3.ggpht.com/ytc/AKedOLRJma0o0tEKLoa4bX0uZAlCXIWYgbS_h-roJTcFCA=s900-c-k-c0x00ffffff-no-rj"},
+    "image": {"size": {"w": 200, "h": 200}, "url":  "https://yt3.ggpht.com/ytc/AKedOLRJma0o0tEKLoa4bX0uZAlCXIWYgbS_h-roJTcFCA=s900-c-k-c0x00ffffff-no-rj"},
     "desc": "As an entity of the U.S. Department of Homeland Security’s Federal Emergency Management Agency (FEMA), the mission of the U.S. Fire Administration is to support and strengthen fire and emergency medical services (EMS) and stakeholders to prepare for, prevent, mitigate and respond to all hazards.",
     "link": "https://www.usfa.fema.gov/prevention/"
   },
   {
     "name": "National Park Service",
-    "image": {"size": {"w": 100, "h": 100}, "url":  "https://www.nps.gov/common/commonspot/templates/assets/images/branding/logo.png"},
+    "image": {"size": {"w": 200, "h": 200}, "url":  "https://www.nps.gov/common/commonspot/templates/assets/images/branding/logo.png"},
     "desc": "The National Park Service preserves unimpaired the natural and cultural resources and values of the National Park System for the enjoyment, education, and inspiration of this and future generations.",
     "link": "https://www.nps.gov/subjects/fire/index.htm"
   },
   {
     "name": "Bureau of Land Management",
-    "image": {"size": {"w": 100, "h": 100}, "url":  "https://www.blm.gov/themes/custom/bwd8sk/logo.svg"},
+    "image": {"size": {"w": 200, "h": 200}, "url":  "https://www.blm.gov/themes/custom/bwd8sk/logo.svg"},
     "desc": "The BLM was established in 1946, but its roots go back to the years after America’s independence, when the young nation began acquiring additional lands. At first, these lands were used to encourage homesteading and westward migration. The General Land Office was created in 1812 to support this national goal.",
     "link": "https://www.blm.gov/programs/fire"
   }

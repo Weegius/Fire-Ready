@@ -24,14 +24,17 @@ const ResourceCard = ({ website }) => {
         padding={4}
         m={5}
       >
-        <Flex flex={1}>
+        <Flex flexDir={'column'}>
           <Image
             // objectFit="cover"
             boxSize="100%"
             w={website.image.size.w}
             h={website.image.size.h}
             src={`${website.image.url}`}
-          />
+          />  
+          <Heading fontSize={"2xl"} fontFamily={"body"} textAlign='center'>
+            {website.name}
+          </Heading>
         </Flex>
         <Stack
           flex={1}
@@ -41,12 +44,9 @@ const ResourceCard = ({ website }) => {
           p={1}
           pt={2}
         >
-          <Heading fontSize={"2xl"} fontFamily={"body"}>
-            {website.name}
-          </Heading>
           <Text
             textAlign={"center"}
-            color={useColorModeValue("gray.700", "gray.400")}
+            color={useColorModeValue("black")}
             px={3}
           >
             {website.desc}
@@ -75,6 +75,7 @@ const ResourceCard = ({ website }) => {
               _focus={{
                 bg: "#f3722c",
               }}
+              onClick={()=>window.location.href=website.link}
             >
               Visit
             </Button>

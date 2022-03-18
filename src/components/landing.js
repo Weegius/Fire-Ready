@@ -30,7 +30,7 @@ const Landing = () => {
         justifyContent={'center'}
         pr='4'
       >
-        <Link to={"map"}>Map</Link>
+        {/* <Link to={"map"}>Map</Link> */}
         <Link to={"story"}>Story</Link>
         <Link to={"gallery"}>Gallery</Link>
         <Link to={"resources"}>Resources</Link>

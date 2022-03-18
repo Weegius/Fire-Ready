@@ -7,8 +7,7 @@ const Navcomp = ({name, link}) => {
   const navigate = useNavigate()
   return (
     <>
-      {console.log(pathname)}
-      { pathname !== name ? <Text color={'white'} bg="#01161e" ml={20} _hover={{color: 'orange', cursor: 'pointer'}} onClick={() => navigate(link)}>{name}</Text> : null}
+      { pathname !== name ? <Text color={'white'} fontSize="3xl"  ml={20} _hover={{color: 'orange', cursor: 'pointer'}} onClick={() => navigate(link)}>{name}</Text> : null}
     </>
   )
 }
@@ -20,7 +19,7 @@ const NavBar = () => {
     <Navcomp name={'Resources'} link={'/resources'} />
     <Navcomp name={'Gallery'} link={'/gallery'} />
     <Navcomp name={'Story'} link={'/story'} />
-    <Navcomp name={'Map'} link={'/map'} />
+    {/* <Navcomp name={'Map'} link={'/map'} /> */}
     </>
   )
 }
